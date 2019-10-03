@@ -25,6 +25,13 @@ img{
 a:not([target="_blank"]){
     text-decoration: none;  /*sauf celles qui ont un target blank*/
 }
+/*
+Title
+*/
+
+h1{
+    color: green;
+}
 
 
 /**/
